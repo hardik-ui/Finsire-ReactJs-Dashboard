@@ -1,3 +1,6 @@
+# Description:
+This project contains a reactjs SPA that shows a simple dashboard that displays four tiles, each displaying a single statistic for a dataset. The user can request new data to be loaded and see the statistics in the tiles update to reflect the new dataset. The user can also include a new value in the existing dataset.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
